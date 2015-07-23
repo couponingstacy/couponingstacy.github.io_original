@@ -2,4 +2,3 @@
 
 Please visit http://couponingstacy.github.io
 
-## couponingstacy.github.io
